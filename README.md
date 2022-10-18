@@ -2,6 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Clone the repo
+
+```
+git clone https://github.com/olivercavanagh/tech-test.git
+```
+
 You need to be running node 12.22.0 or later. [NVM](https://github.com/nvm-sh/nvm) is configured on this project so once installed you can run `nvm use` to make instaltion easier or you can dowload the node version [here](https://nodejs.org/en/download/releases/)
 
 Then you can install the packages by running `npm i` or `npm install`.
