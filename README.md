@@ -16,6 +16,10 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+<img width="1726" alt="image" src="https://user-images.githubusercontent.com/15194092/196431775-02e9e235-b29d-4a7a-856f-d4f204f0e9f5.png">
+
+It should look like this.
+
 
 ## Run Jest Tests
 
